@@ -207,6 +207,19 @@ main>section {
     filter: grayscale(100%);
 }
 
+/* .footer-section {
+    height: 80px;
+    width: 1440px;
+    border-radius: 8px;
+    background: #FFF4E7;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-bottom: 215px;
+    padding-top: 40px;
+} */
+
 /* responsive media query here */
 @media screen and (max-width:576px) {
 
