@@ -115,6 +115,31 @@ main>section {
     max-width: 530px;
 }
 
+.features {
+    gap: 140px;
+}
+
+#feature-section-title {
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+
+.feature-card .feature-title {
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.feature-card {
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 30px 0;
+    color: rgba(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+}
+
 /* some facts related style */
 .facts-card {
     width: 240px;
